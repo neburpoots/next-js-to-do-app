@@ -16,4 +16,5 @@ With this application you can create/delete activity for a to do list.
 You can also toggle the items between To do/done with the icon in the top right of the activity card.
 
 This project requires the following api to work properly:
+https://github.com/neburpoots/strap-to-do-app-back-end
 
